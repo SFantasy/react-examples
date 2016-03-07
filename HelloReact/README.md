@@ -12,14 +12,14 @@ In this example, you will learn:
 
 2. Install browserify golbally
 
-```
-npm install browserify -g
-```
+    ```
+    npm install browserify -g
+    ```
 
 3. Create bundled file
 
-```
-browserify index.js -o bundle.js -t [ babelify --presets react ]
-```
+    ```
+    browserify index.js -o bundle.js -t [ babelify --presets react ]
+    ```
 
 4. View the page in your browser

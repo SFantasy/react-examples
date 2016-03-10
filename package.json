@@ -1,6 +1,6 @@
 {
   "name": "react-examples",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Examples of using React.js and related tech",
   "dependencies": {
     "babel": "^6.5.2",

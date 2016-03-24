@@ -7,6 +7,7 @@ Learn React via examples.
 
 - [Hello React](HelloReact/)
 - [Simple Component](SimpleComponent/)
+- [Styling in React](StylingInReact/)
 
 ## License
 
